@@ -4,7 +4,7 @@ cloud et virtualisation citrix xen server créé avec flutter et spring boot,
 l’application permis au utilisateur de géré leur hyperviseur démarrer
 arrêter.., et créer des VMs, aussi la gestion de Storage et les
 networks.
-<h1>des captures:<h1>
+<h1>Des captures:<h1>
 <h2>Home</h2>
 <p align="center">
   <img src="https://github.com/aboujaafar1997/mycitrix-xen/blob/master/c78b1563-84ba-4ffc-a6c0-cca6ff50d1a9.jpg" width="350" title="hover text">
