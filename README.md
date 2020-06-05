@@ -1,4 +1,4 @@
-# citrixmobile
+# MyCitrix
   Est une application mobile pour géré une infrastructure de
 cloud et virtualisation citrix xen server créé avec flutter et spring boot,
 l’application permis au utilisateur de géré leur hyperviseur démarrer
